@@ -1,4 +1,5 @@
-Add a file local.settings.json with:
+
+Add a file local.settings.json at the root directory with the following (fill in AzureCosmosDBConnection):
 
 ```json
 {
