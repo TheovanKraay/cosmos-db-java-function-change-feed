@@ -1,5 +1,6 @@
-add a file local.settings.json with:
+Add a file local.settings.json with:
 
+```json
 {
   "IsEncrypted": false,
   "Values": {
@@ -8,3 +9,4 @@ add a file local.settings.json with:
     "FUNCTIONS_WORKER_RUNTIME": "java"
   }
 }
+```
